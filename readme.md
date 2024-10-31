@@ -6,6 +6,21 @@ Aside from being used with BMD cameras, the device can also function as a regula
 The MTC300 offers flexible development capabilities, allowing users to develop their own control devices based on the manufacturer's REST API.
 This product features an ultra-thin and lightweight design, equipped with silicone buttons that provide an excellent tactile feedback experience.
 
+**Supported Models:**
+
+Blackmagic Cinema Camera 6K
+
+Blackmagic Studio Camera 4K Plus
+
+Blackmagic Studio Camera 4K Pro G2 
+
+Blackmagic Studio Camera 4K Plus G2 
+
+Blackmagic Studio Camera 6K Pro
+
+Blackmagic Studio Camera 4K Pro
+
+
 **Black Magic Box MTC100**
 1.	Compliant with USB 3.1 Gen 1 Specification
 2.	Integrated 10/100/1000M transceiver
