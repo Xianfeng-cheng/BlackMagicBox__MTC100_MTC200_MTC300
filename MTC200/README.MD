@@ -24,3 +24,11 @@
 22.	Dimensions：70x43X12.6mm Weight: 42g
 23.	Attachments: MTC200, 1/4 screw clamp, 30cm/11.8in USB 3.1 cable
 
+**Supported camera models (all support REST API)：**
+
+Blackmagic Cinema Camera 6K 
+Blackmagic Studio Camera 4K Plus 
+Blackmagic Studio Camera 4K Pro G2 
+Blackmagic Studio Camera 4K Plus G2 
+Blackmagic Studio Camera 6K Pro 
+Blackmagic Studio Camera 4K Pro
