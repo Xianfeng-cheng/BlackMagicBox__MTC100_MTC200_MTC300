@@ -41,11 +41,17 @@ This product features an ultra-thin and lightweight design, equipped with silico
 
 **Supported Models**
 Blackmagic Cinema Camera 6K
+
 Blackmagic Studio Camera 4K Plus
+
 Blackmagic Studio Camera 4K Pro G2 
+
 Blackmagic Studio Camera 4K Plus G2 
+
 Blackmagic Studio Camera 6K Pro
+
 Blackmagic Studio Camera 4K Pro
+
 Besides the models mentioned above, any model that supports network connectivity and REST API is also supported.
 
 **Setup Guide**
@@ -61,6 +67,7 @@ Open a browser or use a mobile device to enter: 10.0.0.1 to access the system se
 2.	Connect to the computer via Wi-Fi
 Use a computer, mobile phone, or tablet to connect to the wireless network SSID: MTC200-XXXX (where XXXX represents the last four digits of the network address).
 Open a browser or use a mobile device to enter: 10.0.0.1 to access the system settings interface.
+
 **MTC200/MTC300 Notes**
 1.  System Initialization Issue
 After inserting the camera into the USB 3.0 Type-C port, please wait for more than 25 seconds before pressing any control buttons. Otherwise, the system self-check may fail, and the system will think that a button has been pressed prematurely. If the self-check fails, youwill need to unplug and reinsert the USB cable.
