@@ -74,7 +74,12 @@ Use a computer, mobile phone, or tablet to connect to the wireless network SSID:
 Open a browser or use a mobile device to enter: 10.0.0.1 to access the system settings interface.
 
 **MTC200/MTC300 Configuration Parameters**
-MTC200: WEB IP:10.0.0.1   SUBNET MASK:255.255.255.0   ACCOUNT:admin  Password: 12345678   wifi SSID:MTC200-XXXX WIFI Password:None
+MTC200: WEB IP:10.0.0.1   
+SUBNET MASK:255.255.255.0   
+ACCOUNT:admin  
+Password: 12345678  
+wifi SSID:MTC200-XXXX 
+WIFI Password:None
 
 
 **MTC200/MTC300 Notes**
