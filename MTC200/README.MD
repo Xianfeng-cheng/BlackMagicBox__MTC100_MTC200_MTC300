@@ -1,4 +1,3 @@
-Black Magic Box Manual  
 Black Magic Box is an accessory developed for the BMD series cameras, integrating USB 3.1 HUB functionality, gigabit Ethernet interface, and wireless WiFi capabilities. This series of products adopts a design that separates the control box from the data cable, addressing the issue of poor cable contact due to long-term bending while allowing users to extend the distance freely.
 MTC100 only features HUB and Ethernet functionality, MTC200 and MTC300 integrate routing and WiFi capabilities.
 
@@ -10,6 +9,7 @@ Aside from being used with BMD cameras, the device can also function as a regula
 The MTC300 offers flexible development capabilities, allowing users to develop their own control devices based on the manufacturer's REST API.
 
 This product features an ultra-thin and lightweight design, equipped with silicone buttons that provide an excellent tactile feedback experience.
+
 **Product Features:**
 1.	Supports USB 3.1, 3.0, 2.0, and 1.1
 2.	Integrated 10/100/1000M transceiver
@@ -47,8 +47,6 @@ Blackmagic Studio Camera 4K Plus G2
 Blackmagic Studio Camera 6K Pro
 Blackmagic Studio Camera 4K Pro
 Besides the models mentioned above, any model that supports network connectivity and REST API is also supported.
-
-
 
 **Setup Guide**
 Camera Settings:
