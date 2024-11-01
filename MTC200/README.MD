@@ -53,11 +53,11 @@ Blackmagic Studio Camera 6K Pro
 Blackmagic Studio Camera 4K Pro
 
 Besides the models mentioned above, any model that supports network connectivity and REST API is also supported.
+
 **Setup Guide**
 
 Camera Settings:
 Note: After initializing the camera or performing a firmware upgrade, it is necessary to reconfigure the settings.
-
 1.Install the official BMD application
 Then, connect the camera to the computer using a USB cable to enable the web control feature through the setup process.
 
