@@ -79,8 +79,8 @@ MTC200/MTC300:
 Web IP:10.0.0.1   
 Subnet Mask:255.255.255.0   
 Account:admin  
-Password: 12345678  
-Wifi SSID:MTC200-XXXX 
+     Password: 12345678  
+    Wifi SSID:MTC200-XXXX
 WIFI Password:None
 
 
