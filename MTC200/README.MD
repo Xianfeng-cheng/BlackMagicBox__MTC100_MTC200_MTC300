@@ -59,8 +59,7 @@ Besides the models mentioned above, any model that supports network connectivity
 Camera Settings:
 Note: After initializing the camera or performing a firmware upgrade, it is necessary to reconfigure the settings.
 
-1.Install the official BMD application
-Then, connect the camera to the computer using a USB cable to enable the web control feature through the setup process.
+1.Install the official BMD application Then, connect the camera to the computer using a USB cable to enable the web control feature through the setup process.
 
 2. Set the camera to a static IP address
 IP:10.0.0.3  Subnet Mask：255.255.255.0  Gateway :10.0.0.1  DNS 8.8.8.8
