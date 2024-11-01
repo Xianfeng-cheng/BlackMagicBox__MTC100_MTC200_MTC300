@@ -75,7 +75,8 @@ Open a browser or use a mobile device to enter: 10.0.0.1 to access the system se
 
 **MTC200/MTC300 Configuration Parameters**
 
-MTC200: WEB IP:10.0.0.1   
+MTC200/MTC300:
+WEB IP:10.0.0.1   
 Subnet Mask:255.255.255.0   
 Account:admin  
 Password: 12345678  
