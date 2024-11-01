@@ -73,6 +73,18 @@ Open a browser or use a mobile device to enter: 10.0.0.1 to access the system se
 Use a computer, mobile phone, or tablet to connect to the wireless network SSID: MTC200-XXXX (where XXXX represents the last four digits of the network address).
 Open a browser or use a mobile device to enter: 10.0.0.1 to access the system settings interface.
 
+**MTC200/MTC300 Configuration Parameters**
+|             | MTC200      |MTC300|
+|WEB IP       |10.0.0.1     |10.0.0.1|
+|SUBNET MASK  |255.255.255.0|255.255.255.0|
+|ACCOUNT      |admin        |admin|
+|Password     |12345678     |12345678|
+|wifi SSID    |MTC200-XXXX  |MTC300-XXXX|
+|WIFI Password|None         |None|
+
+
+
+
 **MTC200/MTC300 Notes**
 1.  System Initialization Issue
 After inserting the camera into the USB 3.0 Type-C port, please wait for more than 25 seconds before pressing any control buttons. Otherwise, the system self-check may fail, and the system will think that a button has been pressed prematurely. If the self-check fails, youwill need to unplug and reinsert the USB cable.
