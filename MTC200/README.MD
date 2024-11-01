@@ -53,17 +53,21 @@ Blackmagic Studio Camera 6K Pro
 Blackmagic Studio Camera 4K Pro
 
 Besides the models mentioned above, any model that supports network connectivity and REST API is also supported.
-
 **Setup Guide**
+
 Camera Settings:
 Note: After initializing the camera or performing a firmware upgrade, it is necessary to reconfigure the settings.
+
 1.Install the official BMD application
 Then, connect the camera to the computer using a USB cable to enable the web control feature through the setup process.
+
 2. Set the camera to a static IP address
 IP:10.0.0.3  Subnet Mask：255.255.255.0  Gateway :10.0.0.1  DNS 8.8.8.8
+
 1.	Connect to the computer via RJ45
 Set the computer's IP address to: 10.0.0.100, Gateway: 10.0.0.1.
 Open a browser or use a mobile device to enter: 10.0.0.1 to access the system settings interface.
+
 2.	Connect to the computer via Wi-Fi
 Use a computer, mobile phone, or tablet to connect to the wireless network SSID: MTC200-XXXX (where XXXX represents the last four digits of the network address).
 Open a browser or use a mobile device to enter: 10.0.0.1 to access the system settings interface.
