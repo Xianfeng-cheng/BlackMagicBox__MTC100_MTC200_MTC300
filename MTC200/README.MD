@@ -27,8 +27,13 @@
 **Supported camera models (all support REST API)：**
 
 Blackmagic Cinema Camera 6K 
+
 Blackmagic Studio Camera 4K Plus 
+
 Blackmagic Studio Camera 4K Pro G2 
+
 Blackmagic Studio Camera 4K Plus G2 
+
 Blackmagic Studio Camera 6K Pro 
+
 Blackmagic Studio Camera 4K Pro
