@@ -58,6 +58,7 @@ Besides the models mentioned above, any model that supports network connectivity
 
 Camera Settings:
 Note: After initializing the camera or performing a firmware upgrade, it is necessary to reconfigure the settings.
+
 1.Install the official BMD application
 Then, connect the camera to the computer using a USB cable to enable the web control feature through the setup process.
 
