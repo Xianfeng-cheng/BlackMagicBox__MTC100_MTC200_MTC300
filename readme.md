@@ -1,12 +1,12 @@
-Black Magic Box is an accessory developed for the BMD series cameras, integrating USB 3.1 HUB functionality, gigabit Ethernet interface, and wireless WiFi capabilities. This series of products adopts a design that separates the control box from the data cable, addressing the issue of poor cable contact due to long-term bending while allowing users to extend the distance freely.
+Black Magic Box is an accessory developed for the **BMD** series cameras, integrating USB 3.1 HUB functionality, gigabit Ethernet interface, and wireless WiFi capabilities. This series of products adopts a design that separates the control box from the data cable, addressing the issue of poor cable contact due to long-term bending while allowing users to extend the distance freely.
 MTC100 only features HUB and Ethernet functionality, MTC200 and MTC300 integrate routing and WiFi capabilities. 
-The MTC300 offers more development-friendly accessories and interfaces. All three products can be used with BMD cameras that support USB-C port network connections, allowing users to record using SSD drives while also utilizing zoom or focus control sticks. 
+The MTC300 offers more development-friendly accessories and interfaces. All three products can be used with BMD cameras that support USB-C port network connections, allowing users to record using SSD drives while also utilizing **zoom or focus control demand**. 
 Additionally, users can connect this box to a desktop (Mac/Pc) via Ethernet or WiFi to directly browse and download files captured by the camera, as well as control the camera's functions through control buttons, with the corresponding commands customizable by the user.
 Aside from being used with BMD cameras, the device can also function as a regular USB-to-network device and can serve as a HUB, compatible with USB 3.1/2.0. 
-The MTC300 offers flexible development capabilities, allowing users to develop their own control devices based on the manufacturer's REST API.
+The MTC300 offers flexible development capabilities, allowing users to develop their own control devices based on the manufacturer's **REST API**.
 This product features an ultra-thin and lightweight design, equipped with silicone buttons that provide an excellent tactile feedback experience.
 
-**MTC200/MTC300** is an application developed based on OpenWRT and the MT7628DAN system, where the commands for controlling the camera are implemented using CURL scripts. Users can modify existing command formats to create their own commonly used control codes by simply changing a REST API. It is an open and flexible system that allows users to develop using C or Python.
+**MTC200/MTC300** is an application developed based on **OpenWRT** and the **MT7628DAN** system, where the commands for controlling the camera are implemented using **Curl scripts**. Users can modify existing command formats to create their own commonly used control codes by simply changing a REST API. It is an open and flexible system that allows users to develop using C or Python.
 
 **Supported Models:**
 
