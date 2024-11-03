@@ -6,6 +6,8 @@ Aside from being used with BMD cameras, the device can also function as a regula
 The MTC300 offers flexible development capabilities, allowing users to develop their own control devices based on the manufacturer's REST API.
 This product features an ultra-thin and lightweight design, equipped with silicone buttons that provide an excellent tactile feedback experience.
 
+**MTC200/MTC300** is an application developed based on OpenWRT and the MT7628DAN system, where the commands for controlling the camera are implemented using CURL scripts. Users can modify existing command formats to create their own commonly used control codes by simply changing a REST API. It is an open and flexible system that allows users to develop using C or Python.
+
 **Supported Models:**
 
 Blackmagic Cinema Camera 6K
