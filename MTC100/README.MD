@@ -1,5 +1,5 @@
 **Black Magic Box MTC100:**
-https://github.com/Xianfeng-cheng/BlackMagicBox__MTC100_MTC200_MTC300/blob/cf204095a499fa9d3ccc306a026f452894474f16/MTC100/P1910162.JPG
+
 1.	Compliant with USB 3.1 Gen 1 Specification
 2.	Integrated 10/100/1000M transceiver
 3.	Supports USB 3.1, 3.0, 2.0, and 1.1
