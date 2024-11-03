@@ -1,5 +1,7 @@
 **Black Magic Box** is an accessory developed for the **BMD（Blackmagic Design）** series cameras, integrating USB 3.1 HUB functionality, gigabit Ethernet interface, and wireless WiFi capabilities. This series of products adopts a design that separates the control box from the data cable, addressing the issue of poor cable contact due to long-term bending while allowing users to extend the distance freely.
-MTC100 only features HUB and Ethernet functionality, MTC200 and MTC300 integrate routing and WiFi capabilities. 
+
+MTC100 only features HUB and Ethernet functionality.
+MTC200 and MTC300 integrate routing and WiFi capabilities. 
 
 The MTC300 offers more development-friendly accessories and interfaces. All three products can be used with BMD cameras that support USB-C port network connections, allowing users to record using SSD drives while also utilizing **zoom or focus control demand**. 
 
